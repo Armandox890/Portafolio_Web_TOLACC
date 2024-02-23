@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/About_me.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "MLSA Culture & Christmas LATAM 2023 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Meet the MLSA's of each Latin American country, discover more about their regional traditions and fascinating curiosities. This is a relaxed YouTube chat, perfect for those who love culture and want to expand their horizons",
+    url: "https://www.youtube.com/watch?v=tCgH2YPLucI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "🌳ARBOOK Academy🍎",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Do you have any doubt after classes? Are the topics difficult? Don't you understand them? Do you want to improve your knowledge and study better? Welcome to ARBOOK Academy! The place you can't stop learning 😉. In this channel you'll find math, algebra, physics and aritmetic videos with clear explications to put in action the theory with exercises. Tips to have better study sessions!",
+    url: "https://www.youtube.com/@ARBOOK_Academy",
   },
   {
-    title: "My Resume Site",
+    title: "🐺 Lobomentoría 🐺",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "It's a voluntary accompaniment process carried out by 'Lobomentoras' and 'Lobomentores' to students who require it, in the disciplinary areas, exchange and induction into university life. I'm a 'lobomentor', a student in advanced semesters, who accompanies new students to facilitate their academic and social integration into university life, characterized by my skills of tolerance, empathy, active listening and leadership.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "🔩 SolidWORKS Certifications ⚙",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "I really love CAD (Computer Asisted Design), it's a extraordinary world where your imagination don't has limits: you can create the mechanic part of your preference. About this, I improve my skills in this area and get 3 certifications in the software 'SolidWORKS': CSWA (Certified SOLIDWORKS Associate in Mechanical Design), CSWA - Sustainability and CSWP (Certified SOLIDWORKS Professional in Mechanical Design).",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
