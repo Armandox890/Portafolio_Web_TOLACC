@@ -4,7 +4,9 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
-html,
+html{
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Montserrat", sans-serif;
   height: 100%;
@@ -123,3 +125,136 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add a slide in animation */
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* animate the arrow in my page to move inside from up to the end. It's an arrow to rebote in the page*/
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+/* animate the arrow in my page to move inside from up to the end. It's an arrow to rebote in the page. Specifically for the Technical Onboarding for MLSA*/
+@keyframes bounce2 {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+/* animate the arrow in my page to move inside from up to the end. It's an arrow to rebote in the page. Specifically for the Technical Onboarding for MLSA. Could you please tell me the exactly location to put code? I'm not a master and I'm lost about where I have to write the code to do that.*/
+
+
+/* animate the arrow in my page to move inside from up to the end. It's an arrow to rebote in the page. Specifically for the Technical Onboarding for MLSA. Could you please tell me the exactly location to put code? I'm not a master and I'm lost about where I have to write the code to do that.*/
+
+/* Path: src/components/Contact/Contact.css */
+/**
+* CSS file to hold styles that apply to the Contact component
+*/
+
+
+
+/* Path: src/components/Footer/Footer.css */
+/**
+
+* CSS file to hold styles that apply to the Footer component
+*/
+
+
+
+/* Path: src/components/Header/Header.css */
+/**
+* CSS file to hold styles that apply to the Header component
+*/
+
+
+
+/* Path: src/components/Projects/Projects.css */
+/**
+* CSS file to hold styles that apply to the Projects component
+*/
+
+/* Path: src/components/Technologies/Technologies.css */
+/**
+
+* CSS file to hold styles that apply to the Technologies component
+*/
+
+/* Path: src/components/About/About.css */
+/**
+* CSS file to hold styles that apply to the About component
+*/
+
+/* Path: src/components/Experience/Experience.css */
+
+/**
+* CSS file to hold styles that apply to the Experience component
+*/
+
+/* Path: src/components/Navbar/Navbar.css */
+/**
+* CSS file to hold styles that apply to the Navbar component
+*/
+
+/* Path: src/components/Resume/Resume.css */
+/**
+* CSS file to hold styles that apply to the Resume component
+*/
+
+/* Path: src/components/Services/Services.css */
+/**
+* CSS file to hold styles that apply to the Services component
+*/
+
+/* Path: src/components/Skills/Skills.css */
+/**
+
+* CSS file to hold styles that apply to the Skills component
+*/
+
+/* Path: src/components/Testimonials/Testimonials.css */
+/**
+* CSS file to hold styles that apply to the Testimonials component
+*/
+
+/* Path: src/components/Work/Work.css */
+/**
+* CSS file to hold styles that apply to the Work component
+*/
+
+/* Path: src/components/Contact/Contact.js */
+
+
+
+
+
+
+

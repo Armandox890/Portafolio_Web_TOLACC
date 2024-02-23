@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -64,7 +64,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Currectly, I'm expanding my abilities and skills to reach my academic objectives and projects using everything I know and learn. Doing actions that will impulse my professional profile and laboral future, like I always said: ''La paciencia es la clave de todo, una vez que lo estás dando todo'' - Luis Armando Casimiro Caselin -";
+  "Currently, I'm expanding my abilities and skills to reach my academic objectives and projects using everything I know and learn. Doing actions that will impulse my professional profile and laboral future, like I always said: ''La paciencia es la clave de todo, una vez que lo estás dando todo'' - Luis Armando Casimiro Caselin -";
 
 const About = () => {
   return (
