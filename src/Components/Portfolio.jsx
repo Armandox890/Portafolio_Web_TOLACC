@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/About_me.png";
+import image from "../images/Solid.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -46,13 +46,40 @@ const projectList = [
     title: "🐺 Lobomentoría 🐺",
     description:
       "It's a voluntary accompaniment process carried out by 'Lobomentoras' and 'Lobomentores' to students who require it, in the disciplinary areas, exchange and induction into university life. I'm a 'lobomentor', a student in advanced semesters, who accompanies new students to facilitate their academic and social integration into university life, characterized by my skills of tolerance, empathy, active listening and leadership.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://www.lobomentores.buap.mx/",
   },
   {
     title: "🔩 SolidWORKS Certifications ⚙",
     description:
       "I really love CAD (Computer Asisted Design), it's a extraordinary world where your imagination don't has limits: you can create the mechanic part of your preference. About this, I improve my skills in this area and get 3 certifications in the software 'SolidWORKS': CSWA (Certified SOLIDWORKS Associate in Mechanical Design), CSWA - Sustainability and CSWP (Certified SOLIDWORKS Professional in Mechanical Design).",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+
+  {
+    title: "🔩 CSWA ⚙",
+    description:
+      "The CSWA certification is proof of my SolidWORKS expertise with cutting-edge skills that businesses seek out and reward.",
+    url: "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-ZYAQX93KM5",
+  },
+
+  {
+    title: "🔩 CSWA-Sustainability ⚙",
+    description:
+      "The completion of the Certified SolidWORKS Associate Sustainability (CSWA-Sustainability) exam shows that I have successfully demonstrated my understanding of the principles of environmental assessment and sustainable design.",
+    url: "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-A3DGHU6PQ2",
+  },
+
+  {
+    title: "🔩 CSWP ⚙",
+    description:
+      "With this certification I've proven my ability to design and analyze parametric parts and moveable assemblies using a variety of complex features in SolidWORKS software: SolidWORKS Essentials, SolidWORKS Drawings, Advanced Part Modeling, and Advanced Assembly Modeling.",
+    url: "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-JZBRVEPYCG",
+  },
+
+  {
+    title: "💼Business for All Program 2023📈",
+    description:
+      "In this competitive scholarship program, I enhance my career prospects with courses delivered by industry experts to develop my skills and build business knowledge to learn the essentials of marketing, finance, negotiation, customer relation, and leadership skills.",
+    url: "https://certificate.hbsp.harvard.edu/verify/8bd6dcc37691",
   },
 ];
 
